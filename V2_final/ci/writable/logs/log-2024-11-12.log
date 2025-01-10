@@ -1,0 +1,7 @@
+WARNING - 2024-11-12 10:03:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Candidature::$model is deprecated in APPPATH/Controllers/Candidature.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\Candidature->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
